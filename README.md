@@ -6,14 +6,11 @@
 
 ## User Interface
 
-![App Screenshot](assets/screenshot.png)
+<p style="line-height: 0;">
+  <img src="assets/screenshot.png" width="400" style="vertical-align: top;" />
+  <img src="assets/output.gif" width="400" style="vertical-align: top;" />
+</p>
 
-## Animation demonstration
-
-<!-- For displaying the animated GIF -->
-<!-- If your GIF is in assets/animation.gif, use: -->
-
-![App Demo](assets/output.gif)
 
 ## Getting Started
 
